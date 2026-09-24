@@ -56,29 +56,7 @@
 
 ---
 
-### 📌 精选项目 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/yoruniubi/mo_yu_pai_xia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoruniubi&repo=mo_yu_pai_xia&theme=tokyonight" />
-</a>
-<a href="https://github.com/yoruniubi/Soniflow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoruniubi&repo=Soniflow&theme=tokyonight" />
-</a>
-
-</div>
-
----
-
 ### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yoruniubi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoruniubi&layout=compact&theme=tokyonight&hide_border=true" width="34%" />
-
-</div>
 
 <div align="center">
 
