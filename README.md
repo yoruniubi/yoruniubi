@@ -11,8 +11,8 @@
 
 <!-- 信条 / Motto -->
 <div align="center">
-  <i>"想成为一个全面的独立开发者，尽管生活很糟糕，也要相信未来会更好。"</i><br/>
-  <i>Striving to be a well-rounded developer — believing the future will be better.</i>
+  <i>"想成为一个全面的独立开发者，尽管生活不是一帆风顺，也要相信未来会更好。"</i><br/>
+  <i>Striving to be a well-rounded developer — Although the life is not Smooth sailing,believing the future will be better.</i>
 </div>
 
 <br/>
@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-- 🌱 目前专注于打磨全栈与跨平台开发能力
+- 🌱 目前专注于打磨全栈与跨平台开发能力,同时也在钻研前沿技术。
 - 🛠️ 技术栈横跨 Web、移动端、游戏开发与桌面应用
 - 💻 软件工程研究生在读，持续学习中——————————
 - 🎯 目标：成为一个"全面"的开发者，而不是只懂一个领域
