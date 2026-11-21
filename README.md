@@ -59,11 +59,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yoruniubi&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoruniubi&show_icons=true&theme=radical)](https://github.com/yoruniubi)
 
 ---
 
