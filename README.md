@@ -59,7 +59,11 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoruniubi&show_icons=true&theme=radical)](https://github.com/yoruniubi)
+<p align="center">
+  <a href="https://github.com/yoruniubi">
+    <img src="https://github-readme-stats.vercel.app/api?username=yoruniubi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+</p>
 
 ---
 
